@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/NasraHussein3/changing-colors-JS-project/assets/131040199/f3d42871-8035-4fc4-97ac-b4665848b64e)
+![github-header-image (2)](https://github.com/NasraHussein3/changing-colors-JS-project/assets/131040199/d1523abd-6640-4303-bae8-d4fb94b8f7c2)
 <h1 align="center">Hi 👋, I'm Nasra Hussein</h1>
 <h3 align="center">A passionate frontend developer from Cardiff</h3>
 
