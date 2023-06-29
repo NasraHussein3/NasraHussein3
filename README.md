@@ -1,4 +1,5 @@
-![github-header-image](https://github.com/NasraHussein3/changing-colors-JS-project/assets/131040199/34f9d958-f3f1-4c7b-910b-e4b418979f6a)<h1 align="center">Hi 👋, I'm Nasra Hussein</h1>
+![github-header-image (1)](https://github.com/NasraHussein3/changing-colors-JS-project/assets/131040199/f3d42871-8035-4fc4-97ac-b4665848b64e)
+<h1 align="center">Hi 👋, I'm Nasra Hussein</h1>
 <h3 align="center">A passionate frontend developer from Cardiff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrahussein3&label=Profile%20views&color=0e75b6&style=flat" alt="nasrahussein3" /> </p>
