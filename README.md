@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasrahussein3&label=Profile%20views&color=0e75b6&style=flat" alt="nasrahussein3" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, React.Js, Node.Js**
+- 🌱 I’m currently learning **JavaScript, React.Js, Python**
 
 - 🤝 I’m looking for help with **Finding a Job**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstap**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, MySQL**
 
 - 📫 How to reach me **nh3@live.co.uk**
 
-- ⚡ Fun fact **I am a really fun person to be around**
+- ⚡ Fun fact **I speak Norwegian **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
